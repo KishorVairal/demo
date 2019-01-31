@@ -8,6 +8,12 @@ public class Login {
 	}
 	
 	
+	public void PasswordRecover()
+	{
+		System.out.println("password recover successfully ");
+	}
+	
+	
 	public static void main(String[] args) {
 		System.out.println("Kishor");
 	}
